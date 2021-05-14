@@ -3,7 +3,7 @@ import json
 import cv2
 import numpy as np
 from cv2 import *
-import remove as rm
+import RemoveHV as rm
 import pytesseract
 from collections import  Counter
 
